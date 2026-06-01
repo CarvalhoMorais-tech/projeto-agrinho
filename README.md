@@ -1,2 +1,2 @@
 # projeto-agrinho
-desenvolvimento pelo Gabriel Carvalho Morais 
+desenvolvimento pelo Gabriel Carvalho Morais
